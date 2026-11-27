@@ -1,0 +1,752 @@
+{
+ "polutan": [
+  "PM10",
+  "PM2.5",
+  "SO2",
+  "CO",
+  "O3",
+  "NO2"
+ ],
+ "stasiun": [
+  "DKI1 Bundaran HI",
+  "DKI2 Kelapa Gading",
+  "DKI3 Jagakarsa",
+  "DKI4 Lubang Buaya",
+  "DKI5 Kebun Jeruk"
+ ],
+ "rata_rata": {
+  "DKI1 Bundaran HI": {
+   "PM10": 48.2535816618911,
+   "PM2.5": 72.3632416787265,
+   "SO2": 25.992784992785,
+   "CO": 18.4052098408104,
+   "O3": 18.997113997114,
+   "NO2": 34.0675287356322
+  },
+  "DKI2 Kelapa Gading": {
+   "PM10": 52.319587628866,
+   "PM2.5": 72.4357864357864,
+   "SO2": 46.5180375180375,
+   "CO": 13.9134199134199,
+   "O3": 20.3007194244604,
+   "NO2": 21.5197657393851
+  },
+  "DKI3 Jagakarsa": {
+   "PM10": 46.6923076923077,
+   "PM2.5": 68.3160173160173,
+   "SO2": 47.9708454810496,
+   "CO": 12.1729651162791,
+   "O3": 18.0538573508006,
+   "NO2": 43.0574374079529
+  },
+  "DKI4 Lubang Buaya": {
+   "PM10": 57.6388888888889,
+   "PM2.5": 67.5483870967742,
+   "SO2": 31.5146198830409,
+   "CO": 16.4017595307918,
+   "O3": 21.9619883040936,
+   "NO2": 16.8565153733529
+  },
+  "DKI5 Kebun Jeruk": {
+   "PM10": 39.6564516129032,
+   "PM2.5": 76.3788546255507,
+   "SO2": 28.1770682148041,
+   "CO": 14.6169296987088,
+   "O3": 39.4899425287356,
+   "NO2": 20.5687409551375
+  }
+ },
+ "z_score_sampel": {
+  "DKI1 Bundaran HI": {
+   "PM10": -0.0985055916007314,
+   "PM2.5": 0.267039362826865,
+   "SO2": -0.962516792205196,
+   "CO": 1.38269490371391,
+   "O3": -0.534364447266486,
+   "NO2": 0.624438932578309
+  },
+  "DKI2 Kelapa Gading": {
+   "PM10": 0.509656222003117,
+   "PM2.5": 0.287329083503705,
+   "SO2": 1.00483274520664,
+   "CO": -0.497561627555193,
+   "O3": -0.388130740840363,
+   "NO2": -0.518812863453682
+  },
+  "DKI3 Jagakarsa": {
+   "PM10": -0.332028910697278,
+   "PM2.5": -0.864910831285723,
+   "SO2": 1.14408467745271,
+   "CO": -1.22611339702849,
+   "O3": -0.640175540568132,
+   "NO2": 1.44352750150236
+  },
+  "DKI4 Lubang Buaya": {
+   "PM10": 1.30527627954268,
+   "PM2.5": -1.0796059155724,
+   "SO2": -0.433247819575302,
+   "CO": 0.544053606730086,
+   "O3": -0.201775651683031,
+   "NO2": -0.943690935976065
+  },
+  "DKI5 Kebun Jeruk": {
+   "PM10": -1.38439799924779,
+   "PM2.5": 1.39014830052756,
+   "SO2": -0.753152810878843,
+   "CO": -0.203073485860302,
+   "O3": 1.76444638035801,
+   "NO2": -0.60546263465092
+  }
+ },
+ "loading": {
+  "PC1 (x)": {
+   "PM10": -0.37891884,
+   "PM2.5": 0.52081053,
+   "SO2": -0.43220747,
+   "CO": 0.19938566,
+   "O3": 0.53419551,
+   "NO2": -0.270655
+  },
+  "PC2 (y)": {
+   "PM10": 0.50555007,
+   "PM2.5": -0.20831226,
+   "SO2": -0.41674055,
+   "CO": 0.61163081,
+   "O3": -0.17993033,
+   "NO2": -0.34768559
+  }
+ },
+ "koordinat": {
+  "DKI1 Bundaran HI": {
+   "PC1": 0.413636412404371,
+   "PC2": 1.02043145204514
+  },
+  "DKI2 Kelapa Gading": {
+   "PC1": -0.643895607747745,
+   "PC2": -0.275055755408664
+  },
+  "DKI3 Jagakarsa": {
+   "PC1": -1.79627086686819,
+   "PC2": -1.60110763175475
+  },
+  "DKI4 Lubang Buaya": {
+   "PC1": -0.613507448249109,
+   "PC2": 1.76250284490404
+  },
+  "DKI5 Kebun Jeruk": {
+   "PC1": 2.64003751046067,
+   "PC2": -0.906770909785763
+  }
+ },
+ "varians": {
+  "nilai": [
+   2.78961877704988,
+   1.90228285662455
+  ],
+  "persen": [
+   0.464936462841646,
+   0.317047142770759
+  ],
+  "kumulatif": 0.781983605612405
+ },
+ "skenario_kmeans": {
+  "DKI1 Bundaran HI": {
+   "k2": 1,
+   "k3": 1,
+   "k4": 1
+  },
+  "DKI2 Kelapa Gading": {
+   "k2": 1,
+   "k3": 2,
+   "k4": 2
+  },
+  "DKI3 Jagakarsa": {
+   "k2": 1,
+   "k3": 2,
+   "k4": 3
+  },
+  "DKI4 Lubang Buaya": {
+   "k2": 1,
+   "k3": 1,
+   "k4": 1
+  },
+  "DKI5 Kebun Jeruk": {
+   "k2": 2,
+   "k3": 3,
+   "k4": 4
+  }
+ },
+ "wcss": {
+  "k2": 9.02756711035637,
+  "k3": 2.34603838958578,
+  "k4": 0.802847231288842
+ },
+ "silhouette_2d": {
+  "k2": 0.3081,
+  "k3": 0.3203,
+  "k4": 0.1241
+ },
+ "profil_2d_k3": [
+  {
+   "klaster": 1,
+   "z": {
+    "PM10": 0.603385343970976,
+    "PM2.5": -0.40628327637277,
+    "SO2": -0.697882305890249,
+    "CO": 0.963374255221996,
+    "O3": -0.368070049474758,
+    "NO2": -0.159626001698878
+   },
+   "anggota": "DKI1 DKI4"
+  },
+  {
+   "klaster": 2,
+   "z": {
+    "PM10": 0.0888136556529192,
+    "PM2.5": -0.288790873891009,
+    "SO2": 1.07445871132967,
+    "CO": -0.861837512291843,
+    "O3": -0.514153140704247,
+    "NO2": 0.462357319024338
+   },
+   "anggota": "DKI2 DKI3"
+  },
+  {
+   "klaster": 3,
+   "z": {
+    "PM10": -1.38439799924779,
+    "PM2.5": 1.39014830052756,
+    "SO2": -0.753152810878843,
+    "CO": -0.203073485860302,
+    "O3": 1.76444638035801,
+    "NO2": -0.60546263465092
+   },
+   "anggota": "DKI5"
+  }
+ ],
+ "catatan_excel_2d": [
+  "Klaster 1 — DKI1 Bundaran HI & DKI4 Lubang Buaya: CO dan PM10 relatif tinggi (y/PC2 positif); CO tertinggi di DKI1, PM10 tertinggi di DKI4.",
+  "Klaster 2 — DKI2 Kelapa Gading & DKI3 Jagakarsa: SO2 paling tinggi di antara stasiun lain (x dan y negatif).",
+  "Klaster 3 — DKI5 Kebun Jeruk: O3 jauh paling tinggi dan PM2.5 tertinggi, PM10 terendah; terpisah sendiri pada semua skenario k.",
+  "Keterbatasan: hanya 5 stasiun (5 titik), sehingga hasil clustering bersifat deskriptif/eksploratif, bukan uji statistik yang kuat.",
+  "Catatan revisi (1): klaster di atas berlaku pada ruang 2D (PC1+PC2 = 78,2% varians; 21,8% terbuang). Ward pada 6 polutan penuh memberi k = 3: {DKI1, DKI2, DKI4}, {DKI3}, {DKI5} — lihat sheet 'Perbandingan 2D vs 6D'.",
+  "Catatan revisi (2): yang konsisten di semua metode hanya satu temuan: DKI5 Kebun Jeruk terpisah dari empat stasiun lain (O3 dan PM2.5 tinggi, PM10 terendah).",
+  "Catatan revisi (3): 'PM10 tinggi' pada Klaster 1 berasal dari DKI4 saja; PM10 DKI1 justru di bawah rata-rata (z = −0,10) dan PM2.5 DKI1 di atas rata-rata (z = +0,27) sedangkan DKI4 −1,08.",
+  "Catatan revisi (4): silhouette k = 3 pada 2D = 0,32 (lemah); pada 6 polutan hanya 0,09. Dengan n = 5 stasiun, hasil bersifat eksploratif."
+ ],
+ "dendrogram_2d": {
+  "langkah": [
+   {
+    "langkah": "Langkah 1",
+    "gabung": "DKI1 + DKI4",
+    "n_kiri": 1,
+    "n_kanan": 1,
+    "tinggi": 1.26715999880745,
+    "jarak": 1.26715999880745,
+    "anggota": 2
+   },
+   {
+    "langkah": "Langkah 2",
+    "gabung": "DKI2 + DKI3",
+    "n_kiri": 1,
+    "n_kanan": 1,
+    "tinggi": 1.7568102676709,
+    "jarak": 1.7568102676709,
+    "anggota": 2
+   },
+   {
+    "langkah": "Langkah 3",
+    "gabung": "{DKI1, DKI4} + {DKI2, DKI3}",
+    "n_kiri": 2,
+    "n_kanan": 2,
+    "tinggi": 3.65555159196819,
+    "jarak": 2.58486531965799,
+    "anggota": 4
+   },
+   {
+    "langkah": "Langkah 4",
+    "gabung": "DKI5 + {DKI1, DKI2, DKI3, DKI4}",
+    "n_kiri": 1,
+    "n_kanan": 4,
+    "tinggi": 4.41362423057092,
+    "jarak": 3.48927632617807,
+    "anggota": 5
+   }
+  ],
+  "garis": [
+   [
+    "Langkah 1",
+    1,
+    0
+   ],
+   [
+    "Langkah 1",
+    1,
+    1.26715999880745
+   ],
+   [
+    "Langkah 1",
+    2,
+    1.26715999880745
+   ],
+   [
+    "Langkah 1",
+    2,
+    0
+   ],
+   [
+    "Langkah 2",
+    3,
+    0
+   ],
+   [
+    "Langkah 2",
+    3,
+    1.7568102676709
+   ],
+   [
+    "Langkah 2",
+    4,
+    1.7568102676709
+   ],
+   [
+    "Langkah 2",
+    4,
+    0
+   ],
+   [
+    "Langkah 3",
+    1.5,
+    1.26715999880745
+   ],
+   [
+    "Langkah 3",
+    1.5,
+    3.65555159196819
+   ],
+   [
+    "Langkah 3",
+    3.5,
+    3.65555159196819
+   ],
+   [
+    "Langkah 3",
+    3.5,
+    1.7568102676709
+   ],
+   [
+    "Langkah 4",
+    5,
+    0
+   ],
+   [
+    "Langkah 4",
+    5,
+    4.41362423057092
+   ],
+   [
+    "Langkah 4",
+    2.5,
+    4.41362423057092
+   ],
+   [
+    "Langkah 4",
+    2.5,
+    3.65555159196819
+   ]
+  ],
+  "urutan": [
+   [
+    "DKI1 Bundaran HI",
+    1
+   ],
+   [
+    "DKI4 Lubang Buaya",
+    2
+   ],
+   [
+    "DKI2 Kelapa Gading",
+    3
+   ],
+   [
+    "DKI3 Jagakarsa",
+    4
+   ],
+   [
+    "DKI5 Kebun Jeruk",
+    5
+   ]
+  ],
+  "potong": {
+   "potong → 2 cluster": {
+    "y": 4.03458791126955,
+    "ket": "2 klaster: {DKI1, DKI2, DKI3, DKI4} dan {DKI5}"
+   },
+   "potong → 3 cluster": {
+    "y": 2.70618092981954,
+    "ket": "3 klaster: {DKI1, DKI4}, {DKI2, DKI3}, {DKI5}"
+   },
+   "potong → 4 cluster": {
+    "y": 1.51198513323917,
+    "ket": "4 klaster: {DKI1, DKI4}, {DKI2}, {DKI3}, {DKI5}"
+   }
+  }
+ },
+ "z_score_populasi_6d": {
+  "DKI1 Bundaran HI": {
+   "PM10": -0.110132599491534,
+   "PM2.5": 0.29855908397455,
+   "SO2": -1.07612648842793,
+   "CO": 1.54589989842341,
+   "O3": -0.597437614423482,
+   "NO2": 0.698143950521253
+  },
+  "DKI2 Kelapa Gading": {
+   "PM10": 0.569812978777347,
+   "PM2.5": 0.321243681313498,
+   "SO2": 1.12343716214988,
+   "CO": -0.556290811104422,
+   "O3": -0.433943360338202,
+   "NO2": -0.580050415141874
+  },
+  "DKI3 Jagakarsa": {
+   "PM10": -0.371219607407161,
+   "PM2.5": -0.966999706615364,
+   "SO2": 1.27912555540009,
+   "CO": -1.37083645193945,
+   "O3": -0.715738013121508,
+   "NO2": 1.61391281037485
+  },
+  "DKI4 Lubang Buaya": {
+   "PM10": 1.45934324523773,
+   "PM2.5": -1.2070361080654,
+   "SO2": -0.484385787836969,
+   "CO": 0.608270424026205,
+   "O3": -0.225592036683788,
+   "NO2": -1.05507854129644
+  },
+  "DKI5 Kebun Jeruk": {
+   "PM10": -1.54780401711638,
+   "PM2.5": 1.55423304939271,
+   "SO2": -0.842050441285068,
+   "CO": -0.227043059405738,
+   "O3": 1.97271102456698,
+   "NO2": -0.676927804457788
+  }
+ },
+ "dendrogram_6d": {
+  "langkah": [
+   {
+    "langkah": "Langkah 1",
+    "gabung": "DKI2 Kelapa Gading + DKI4 Lubang Buaya",
+    "n_kiri": 1,
+    "n_kanan": 1,
+    "jarak": 2.70873821421579,
+    "tinggi": 2.70873821421579
+   },
+   {
+    "langkah": "Langkah 2",
+    "gabung": "DKI1 Bundaran HI + Klaster 1",
+    "n_kiri": 1,
+    "n_kanan": 2,
+    "jarak": 2.90546399912856,
+    "tinggi": 3.35494084403528
+   },
+   {
+    "langkah": "Langkah 3",
+    "gabung": "DKI3 Jagakarsa + Klaster 2",
+    "n_kiri": 1,
+    "n_kanan": 3,
+    "jarak": 3.32693264768348,
+    "tinggi": 4.07464369771559
+   },
+   {
+    "langkah": "Langkah 4",
+    "gabung": "DKI5 Kebun Jeruk + Klaster 3",
+    "n_kiri": 1,
+    "n_kanan": 4,
+    "jarak": 3.93735221599947,
+    "tinggi": 4.98040038114784
+   }
+  ],
+  "garis": [
+   [
+    "Langkah 1",
+    4,
+    0
+   ],
+   [
+    "Langkah 1",
+    4,
+    2.70873821421579
+   ],
+   [
+    "Langkah 1",
+    5,
+    2.70873821421579
+   ],
+   [
+    "Langkah 1",
+    5,
+    0
+   ],
+   [
+    "Langkah 2",
+    3,
+    0
+   ],
+   [
+    "Langkah 2",
+    3,
+    3.35494084403528
+   ],
+   [
+    "Langkah 2",
+    4.5,
+    3.35494084403528
+   ],
+   [
+    "Langkah 2",
+    4.5,
+    2.70873821421579
+   ],
+   [
+    "Langkah 3",
+    2,
+    0
+   ],
+   [
+    "Langkah 3",
+    2,
+    4.07464369771559
+   ],
+   [
+    "Langkah 3",
+    3.75,
+    4.07464369771559
+   ],
+   [
+    "Langkah 3",
+    3.75,
+    3.35494084403528
+   ],
+   [
+    "Langkah 4",
+    1,
+    0
+   ],
+   [
+    "Langkah 4",
+    1,
+    4.98040038114784
+   ],
+   [
+    "Langkah 4",
+    2.875,
+    4.98040038114784
+   ],
+   [
+    "Langkah 4",
+    2.875,
+    4.07464369771559
+   ]
+  ],
+  "urutan": [
+   [
+    "DKI5 Kebun Jeruk",
+    1
+   ],
+   [
+    "DKI3 Jagakarsa",
+    2
+   ],
+   [
+    "DKI1 Bundaran HI",
+    3
+   ],
+   [
+    "DKI2 Kelapa Gading",
+    4
+   ],
+   [
+    "DKI4 Lubang Buaya",
+    5
+   ]
+  ],
+  "potong": {
+   "potong → 2 cluster": {
+    "y": 4.52752203943171,
+    "ket": "2 klaster: {DKI1, DKI2, DKI3, DKI4} dan {DKI5}"
+   },
+   "potong → 3 cluster": {
+    "y": 3.71479227087543,
+    "ket": "3 klaster: {DKI1, DKI2, DKI4}, {DKI3}, {DKI5}"
+   },
+   "potong → 4 cluster": {
+    "y": 3.03183952912553,
+    "ket": "4 klaster: {DKI2, DKI4}, {DKI1}, {DKI3}, {DKI5}"
+   }
+  }
+ },
+ "perbandingan": {
+  "keanggotaan": [
+   {
+    "stasiun": "DKI1 Bundaran HI",
+    "kmeans2d_k3": 1,
+    "ward2d_k3": 1,
+    "ward6d_k3": 1,
+    "ward6d_k2": 1
+   },
+   {
+    "stasiun": "DKI2 Kelapa Gading",
+    "kmeans2d_k3": 2,
+    "ward2d_k3": 2,
+    "ward6d_k3": 1,
+    "ward6d_k2": 1
+   },
+   {
+    "stasiun": "DKI3 Jagakarsa",
+    "kmeans2d_k3": 2,
+    "ward2d_k3": 2,
+    "ward6d_k3": 2,
+    "ward6d_k2": 1
+   },
+   {
+    "stasiun": "DKI4 Lubang Buaya",
+    "kmeans2d_k3": 1,
+    "ward2d_k3": 1,
+    "ward6d_k3": 1,
+    "ward6d_k2": 1
+   },
+   {
+    "stasiun": "DKI5 Kebun Jeruk",
+    "kmeans2d_k3": 3,
+    "ward2d_k3": 3,
+    "ward6d_k3": 3,
+    "ward6d_k2": 2
+   }
+  ],
+  "pasangan": [
+   {
+    "pasangan": "DKI1 – DKI4",
+    "kmeans2d": "Ya",
+    "ward2d": "Ya",
+    "ward6d": "Ya"
+   },
+   {
+    "pasangan": "DKI2 – DKI3",
+    "kmeans2d": "Ya",
+    "ward2d": "Ya",
+    "ward6d": "Tidak"
+   },
+   {
+    "pasangan": "DKI2 – DKI4",
+    "kmeans2d": "Tidak",
+    "ward2d": "Tidak",
+    "ward6d": "Ya"
+   },
+   {
+    "pasangan": "DKI1 – DKI2",
+    "kmeans2d": "Tidak",
+    "ward2d": "Tidak",
+    "ward6d": "Ya"
+   }
+  ],
+  "silhouette": [
+   {
+    "k": 2,
+    "kmeans2d": 0.3081,
+    "ward6d": 0.186
+   },
+   {
+    "k": 3,
+    "kmeans2d": 0.3203,
+    "ward6d": 0.088
+   },
+   {
+    "k": 4,
+    "kmeans2d": 0.1241,
+    "ward6d": 0.031
+   }
+  ],
+  "profil_6d_k3": [
+   {
+    "klaster": 1,
+    "z": {
+     "PM10": 0.639674541507848,
+     "PM2.5": -0.195744447592449,
+     "SO2": -0.145691704705006,
+     "CO": 0.532626503781731,
+     "O3": -0.418991003815157,
+     "NO2": -0.312328335305687
+    },
+    "anggota": "DKI1 DKI2 DKI4"
+   },
+   {
+    "klaster": 2,
+    "z": {
+     "PM10": -0.371219607407161,
+     "PM2.5": -0.966999706615364,
+     "SO2": 1.27912555540009,
+     "CO": -1.37083645193945,
+     "O3": -0.715738013121508,
+     "NO2": 1.61391281037485
+    },
+    "anggota": "DKI3"
+   },
+   {
+    "klaster": 3,
+    "z": {
+     "PM10": -1.54780401711638,
+     "PM2.5": 1.55423304939271,
+     "SO2": -0.842050441285068,
+     "CO": -0.227043059405738,
+     "O3": 1.97271102456698,
+     "NO2": -0.676927804457788
+    },
+    "anggota": "DKI5"
+   }
+  ],
+  "tinggi": [
+   {
+    "langkah": "Langkah 1",
+    "gabung2d": "DKI1 + DKI4",
+    "tinggi2d": 1.26715999880745,
+    "gabung6d": "DKI2 Kelapa Gading + DKI4 Lubang Buaya",
+    "tinggi6d": 2.70873821421579,
+    "tinggi6d_setara": 2.42276911209516
+   },
+   {
+    "langkah": "Langkah 2",
+    "gabung2d": "DKI2 + DKI3",
+    "tinggi2d": 1.7568102676709,
+    "gabung6d": "DKI1 Bundaran HI + Klaster 1",
+    "tinggi6d": 3.35494084403528,
+    "tinggi6d_setara": 3.00075031510136
+   },
+   {
+    "langkah": "Langkah 3",
+    "gabung2d": "{DKI1, DKI4} + {DKI2, DKI3}",
+    "tinggi2d": 3.65555159196819,
+    "gabung6d": "DKI3 Jagakarsa + Klaster 2",
+    "tinggi6d": 4.07464369771559,
+    "tinggi6d_setara": 3.64447211687326
+   },
+   {
+    "langkah": "Langkah 4",
+    "gabung2d": "DKI5 + {DKI1, DKI2, DKI3, DKI4}",
+    "tinggi2d": 4.41362423057092,
+    "gabung6d": "DKI5 Kebun Jeruk + Klaster 3",
+    "tinggi6d": 4.98040038114784,
+    "tinggi6d_setara": 4.45460552296497
+   }
+  ],
+  "kesimpulan_excel": [
+   "• Konsisten di semua metode: DKI5 Kebun Jeruk terpisah dari empat stasiun lain (O3 dan PM2.5 tertinggi, PM10 terendah).",
+   "• Tidak konsisten: pada 2D, k = 3 → {DKI1, DKI4}, {DKI2, DKI3}, {DKI5}; pada 6D → {DKI1, DKI2, DKI4}, {DKI3}, {DKI5}. Metode average, complete, dan centroid di 6D sejalan dengan hasil 6D.",
+   "• Penyebab: PCA 2D membuang 21,8% varians (PC3 saja 17%), sehingga jarak antar stasiun berubah. Analisis utama disarankan memakai 6D; PCA cukup untuk visualisasi.",
+   "• Profil 6D k = 3: Klaster 1 {DKI1, DKI2, DKI4} PM10 (+0,64) dan CO (+0,53) di atas rata-rata; Klaster 2 {DKI3} NO2 (+1,61) dan SO2 (+1,28) tertinggi, CO terendah; Klaster 3 {DKI5} O3 (+1,97) dan PM2.5 (+1,55) tertinggi.",
+   "• Silhouette 6D k = 3 hanya 0,09 dan n = 5 stasiun → hasil bersifat eksploratif/deskriptif, bukan bukti statistik adanya kelompok yang tegas."
+  ]
+ }
+}

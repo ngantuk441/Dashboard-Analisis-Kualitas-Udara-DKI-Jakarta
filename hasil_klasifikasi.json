@@ -1,0 +1,520 @@
+{
+ "kategori": [
+  "BAIK",
+  "SEDANG",
+  "TIDAK SEHAT",
+  "SANGAT TIDAK SEHAT",
+  "TIDAK DAPAT DIKLASIFIKASI"
+ ],
+ "deskriptif": [
+  {
+   "variabel": "pm_sepuluh",
+   "stasiun": "DKI1 Bundaran HI",
+   "valid": 698,
+   "hilang": 2,
+   "mean": 48.25358166189112,
+   "sd": 13.284553551022828,
+   "min": 14.0,
+   "maks": 76.0
+  },
+  {
+   "variabel": "pm_sepuluh",
+   "stasiun": "DKI2 Kelapa Gading",
+   "valid": 582,
+   "hilang": 118,
+   "mean": 52.31958762886598,
+   "sd": 16.06251538577086,
+   "min": 13.0,
+   "maks": 100.0
+  },
+  {
+   "variabel": "pm_sepuluh",
+   "stasiun": "DKI3 Jagakarsa",
+   "valid": 689,
+   "hilang": 11,
+   "mean": 46.69230769230769,
+   "sd": 13.34355787159593,
+   "min": 14.0,
+   "maks": 93.0
+  },
+  {
+   "variabel": "pm_sepuluh",
+   "stasiun": "DKI4 Lubang Buaya",
+   "valid": 648,
+   "hilang": 52,
+   "mean": 57.638888888888886,
+   "sd": 17.99714471600711,
+   "min": 15.0,
+   "maks": 187.0
+  },
+  {
+   "variabel": "pm_sepuluh",
+   "stasiun": "DKI5 Kebun Jeruk",
+   "valid": 620,
+   "hilang": 81,
+   "mean": 39.656451612903226,
+   "sd": 16.495939882978988,
+   "min": 5.0,
+   "maks": 79.0
+  },
+  {
+   "variabel": "pm_duakomalima",
+   "stasiun": "DKI1 Bundaran HI",
+   "valid": 691,
+   "hilang": 9,
+   "mean": 72.36324167872648,
+   "sd": 19.786096213991602,
+   "min": 10.0,
+   "maks": 120.0
+  },
+  {
+   "variabel": "pm_duakomalima",
+   "stasiun": "DKI2 Kelapa Gading",
+   "valid": 693,
+   "hilang": 7,
+   "mean": 72.43578643578644,
+   "sd": 22.62238368280179,
+   "min": 15.0,
+   "maks": 132.0
+  },
+  {
+   "variabel": "pm_duakomalima",
+   "stasiun": "DKI3 Jagakarsa",
+   "valid": 693,
+   "hilang": 7,
+   "mean": 68.31601731601732,
+   "sd": 20.05850518752784,
+   "min": 10.0,
+   "maks": 141.0
+  },
+  {
+   "variabel": "pm_duakomalima",
+   "stasiun": "DKI4 Lubang Buaya",
+   "valid": 682,
+   "hilang": 18,
+   "mean": 67.54838709677419,
+   "sd": 26.8431814880812,
+   "min": 12.0,
+   "maks": 140.0
+  },
+  {
+   "variabel": "pm_duakomalima",
+   "stasiun": "DKI5 Kebun Jeruk",
+   "valid": 681,
+   "hilang": 20,
+   "mean": 76.37885462555066,
+   "sd": 24.97999951451184,
+   "min": 18.0,
+   "maks": 157.0
+  },
+  {
+   "variabel": "sulfur_dioksida",
+   "stasiun": "DKI1 Bundaran HI",
+   "valid": 693,
+   "hilang": 7,
+   "mean": 25.992784992784994,
+   "sd": 13.779066174144413,
+   "min": 6.0,
+   "maks": 112.0
+  },
+  {
+   "variabel": "sulfur_dioksida",
+   "stasiun": "DKI2 Kelapa Gading",
+   "valid": 693,
+   "hilang": 7,
+   "mean": 46.51803751803752,
+   "sd": 12.266373069568173,
+   "min": 20.0,
+   "maks": 72.0
+  },
+  {
+   "variabel": "sulfur_dioksida",
+   "stasiun": "DKI3 Jagakarsa",
+   "valid": 686,
+   "hilang": 14,
+   "mean": 47.970845481049565,
+   "sd": 15.480876684921732,
+   "min": 6.0,
+   "maks": 69.0
+  },
+  {
+   "variabel": "sulfur_dioksida",
+   "stasiun": "DKI4 Lubang Buaya",
+   "valid": 684,
+   "hilang": 16,
+   "mean": 31.514619883040936,
+   "sd": 13.664182684489203,
+   "min": 10.0,
+   "maks": 55.0
+  },
+  {
+   "variabel": "sulfur_dioksida",
+   "stasiun": "DKI5 Kebun Jeruk",
+   "valid": 689,
+   "hilang": 12,
+   "mean": 28.177068214804063,
+   "sd": 7.706120875659935,
+   "min": 3.0,
+   "maks": 53.0
+  },
+  {
+   "variabel": "karbon_monoksida",
+   "stasiun": "DKI1 Bundaran HI",
+   "valid": 691,
+   "hilang": 9,
+   "mean": 18.40520984081042,
+   "sd": 7.068868392780682,
+   "min": 3.0,
+   "maks": 38.0
+  },
+  {
+   "variabel": "karbon_monoksida",
+   "stasiun": "DKI2 Kelapa Gading",
+   "valid": 693,
+   "hilang": 7,
+   "mean": 13.913419913419913,
+   "sd": 5.248562312755233,
+   "min": 2.0,
+   "maks": 33.0
+  },
+  {
+   "variabel": "karbon_monoksida",
+   "stasiun": "DKI3 Jagakarsa",
+   "valid": 688,
+   "hilang": 12,
+   "mean": 12.17296511627907,
+   "sd": 6.137011248268356,
+   "min": 3.0,
+   "maks": 70.0
+  },
+  {
+   "variabel": "karbon_monoksida",
+   "stasiun": "DKI4 Lubang Buaya",
+   "valid": 682,
+   "hilang": 18,
+   "mean": 16.40175953079179,
+   "sd": 6.68088621806141,
+   "min": 4.0,
+   "maks": 45.0
+  },
+  {
+   "variabel": "karbon_monoksida",
+   "stasiun": "DKI5 Kebun Jeruk",
+   "valid": 697,
+   "hilang": 4,
+   "mean": 14.616929698708752,
+   "sd": 7.115298419194276,
+   "min": 2.0,
+   "maks": 57.0
+  },
+  {
+   "variabel": "ozon",
+   "stasiun": "DKI1 Bundaran HI",
+   "valid": 693,
+   "hilang": 7,
+   "mean": 18.997113997113996,
+   "sd": 8.306275417546084,
+   "min": 2.0,
+   "maks": 75.0
+  },
+  {
+   "variabel": "ozon",
+   "stasiun": "DKI2 Kelapa Gading",
+   "valid": 695,
+   "hilang": 5,
+   "mean": 20.300719424460432,
+   "sd": 6.883567456094612,
+   "min": 7.0,
+   "maks": 43.0
+  },
+  {
+   "variabel": "ozon",
+   "stasiun": "DKI3 Jagakarsa",
+   "valid": 687,
+   "hilang": 13,
+   "mean": 18.053857350800584,
+   "sd": 7.21322555132287,
+   "min": 3.0,
+   "maks": 40.0
+  },
+  {
+   "variabel": "ozon",
+   "stasiun": "DKI4 Lubang Buaya",
+   "valid": 684,
+   "hilang": 16,
+   "mean": 21.961988304093566,
+   "sd": 10.25495000254842,
+   "min": 3.0,
+   "maks": 56.0
+  },
+  {
+   "variabel": "ozon",
+   "stasiun": "DKI5 Kebun Jeruk",
+   "valid": 696,
+   "hilang": 5,
+   "mean": 39.48994252873563,
+   "sd": 15.03329300924213,
+   "min": 13.0,
+   "maks": 115.0
+  },
+  {
+   "variabel": "nitrogen_dioksida",
+   "stasiun": "DKI1 Bundaran HI",
+   "valid": 696,
+   "hilang": 4,
+   "mean": 34.06752873563219,
+   "sd": 10.355259752007536,
+   "min": 8.0,
+   "maks": 98.0
+  },
+  {
+   "variabel": "nitrogen_dioksida",
+   "stasiun": "DKI2 Kelapa Gading",
+   "valid": 683,
+   "hilang": 17,
+   "mean": 21.519765739385065,
+   "sd": 12.039310195121937,
+   "min": 5.0,
+   "maks": 85.0
+  },
+  {
+   "variabel": "nitrogen_dioksida",
+   "stasiun": "DKI3 Jagakarsa",
+   "valid": 679,
+   "hilang": 21,
+   "mean": 43.057437407952875,
+   "sd": 20.042534414435213,
+   "min": 3.0,
+   "maks": 202.0
+  },
+  {
+   "variabel": "nitrogen_dioksida",
+   "stasiun": "DKI4 Lubang Buaya",
+   "valid": 683,
+   "hilang": 17,
+   "mean": 16.856515373352856,
+   "sd": 7.607869296301168,
+   "min": 2.0,
+   "maks": 41.0
+  },
+  {
+   "variabel": "nitrogen_dioksida",
+   "stasiun": "DKI5 Kebun Jeruk",
+   "valid": 691,
+   "hilang": 10,
+   "mean": 20.568740955137482,
+   "sd": 14.177318321506371,
+   "min": 1.0,
+   "maks": 65.0
+  },
+  {
+   "variabel": "max",
+   "stasiun": "DKI1 Bundaran HI",
+   "valid": 699,
+   "hilang": 1,
+   "mean": 73.04005722460658,
+   "sd": 18.766964756876174,
+   "min": 26.0,
+   "maks": 120.0
+  },
+  {
+   "variabel": "max",
+   "stasiun": "DKI2 Kelapa Gading",
+   "valid": 697,
+   "hilang": 3,
+   "mean": 73.92252510760402,
+   "sd": 20.390717136452274,
+   "min": 23.0,
+   "maks": 132.0
+  },
+  {
+   "variabel": "max",
+   "stasiun": "DKI3 Jagakarsa",
+   "valid": 696,
+   "hilang": 4,
+   "mean": 72.44540229885058,
+   "sd": 16.821103792188044,
+   "min": 26.0,
+   "maks": 202.0
+  },
+  {
+   "variabel": "max",
+   "stasiun": "DKI4 Lubang Buaya",
+   "valid": 690,
+   "hilang": 10,
+   "mean": 70.81449275362318,
+   "sd": 23.63075457510343,
+   "min": 19.0,
+   "maks": 187.0
+  },
+  {
+   "variabel": "max",
+   "stasiun": "DKI5 Kebun Jeruk",
+   "valid": 698,
+   "hilang": 3,
+   "mean": 76.55730659025788,
+   "sd": 24.02736984719454,
+   "min": 14.0,
+   "maks": 157.0
+  }
+ ],
+ "silang": [
+  {
+   "stasiun": "DKI1 Bundaran HI",
+   "total": 700.0,
+   "jumlah": {
+    "BAIK": 88.0,
+    "SEDANG": 564.0,
+    "TIDAK SEHAT": 47.0,
+    "SANGAT TIDAK SEHAT": 0.0,
+    "TIDAK DAPAT DIKLASIFIKASI": 1.0
+   },
+   "harapan": {
+    "BAIK": 84.97572122250786,
+    "SEDANG": 542.0451299628678,
+    "TIDAK SEHAT": 68.58040559840046,
+    "SANGAT TIDAK SEHAT": 0.19994287346472436,
+    "TIDAK DAPAT DIKLASIFIKASI": 4.1988003427592115
+   },
+   "persen_baris": {
+    "BAIK": 12.571428571428573,
+    "SEDANG": 80.57142857142857,
+    "TIDAK SEHAT": 6.714285714285714,
+    "SANGAT TIDAK SEHAT": 0.0,
+    "TIDAK DAPAT DIKLASIFIKASI": 0.14285714285714285
+   }
+  },
+  {
+   "stasiun": "DKI2 Kelapa Gading",
+   "total": 700.0,
+   "jumlah": {
+    "BAIK": 80.0,
+    "SEDANG": 548.0,
+    "TIDAK SEHAT": 69.0,
+    "SANGAT TIDAK SEHAT": 0.0,
+    "TIDAK DAPAT DIKLASIFIKASI": 3.0
+   },
+   "harapan": {
+    "BAIK": 84.97572122250786,
+    "SEDANG": 542.0451299628678,
+    "TIDAK SEHAT": 68.58040559840046,
+    "SANGAT TIDAK SEHAT": 0.19994287346472436,
+    "TIDAK DAPAT DIKLASIFIKASI": 4.1988003427592115
+   },
+   "persen_baris": {
+    "BAIK": 11.428571428571429,
+    "SEDANG": 78.28571428571428,
+    "TIDAK SEHAT": 9.857142857142858,
+    "SANGAT TIDAK SEHAT": 0.0,
+    "TIDAK DAPAT DIKLASIFIKASI": 0.4285714285714286
+   }
+  },
+  {
+   "stasiun": "DKI3 Jagakarsa",
+   "total": 700.0,
+   "jumlah": {
+    "BAIK": 34.0,
+    "SEDANG": 628.0,
+    "TIDAK SEHAT": 33.0,
+    "SANGAT TIDAK SEHAT": 1.0,
+    "TIDAK DAPAT DIKLASIFIKASI": 4.0
+   },
+   "harapan": {
+    "BAIK": 84.97572122250786,
+    "SEDANG": 542.0451299628678,
+    "TIDAK SEHAT": 68.58040559840046,
+    "SANGAT TIDAK SEHAT": 0.19994287346472436,
+    "TIDAK DAPAT DIKLASIFIKASI": 4.1988003427592115
+   },
+   "persen_baris": {
+    "BAIK": 4.857142857142857,
+    "SEDANG": 89.71428571428571,
+    "TIDAK SEHAT": 4.714285714285714,
+    "SANGAT TIDAK SEHAT": 0.14285714285714285,
+    "TIDAK DAPAT DIKLASIFIKASI": 0.5714285714285714
+   }
+  },
+  {
+   "stasiun": "DKI4 Lubang Buaya",
+   "total": 700.0,
+   "jumlah": {
+    "BAIK": 111.0,
+    "SEDANG": 499.0,
+    "TIDAK SEHAT": 80.0,
+    "SANGAT TIDAK SEHAT": 0.0,
+    "TIDAK DAPAT DIKLASIFIKASI": 10.0
+   },
+   "harapan": {
+    "BAIK": 84.97572122250786,
+    "SEDANG": 542.0451299628678,
+    "TIDAK SEHAT": 68.58040559840046,
+    "SANGAT TIDAK SEHAT": 0.19994287346472436,
+    "TIDAK DAPAT DIKLASIFIKASI": 4.1988003427592115
+   },
+   "persen_baris": {
+    "BAIK": 15.857142857142856,
+    "SEDANG": 71.28571428571429,
+    "TIDAK SEHAT": 11.428571428571429,
+    "SANGAT TIDAK SEHAT": 0.0,
+    "TIDAK DAPAT DIKLASIFIKASI": 1.4285714285714286
+   }
+  },
+  {
+   "stasiun": "DKI5 Kebun Jeruk",
+   "total": 701.0,
+   "jumlah": {
+    "BAIK": 112.0,
+    "SEDANG": 472.0,
+    "TIDAK SEHAT": 114.0,
+    "SANGAT TIDAK SEHAT": 0.0,
+    "TIDAK DAPAT DIKLASIFIKASI": 3.0
+   },
+   "harapan": {
+    "BAIK": 85.09711510996858,
+    "SEDANG": 542.819480148529,
+    "TIDAK SEHAT": 68.67837760639817,
+    "SANGAT TIDAK SEHAT": 0.20022850614110255,
+    "TIDAK DAPAT DIKLASIFIKASI": 4.204798628963154
+   },
+   "persen_baris": {
+    "BAIK": 15.977175463623395,
+    "SEDANG": 67.3323823109843,
+    "TIDAK SEHAT": 16.262482168330955,
+    "SANGAT TIDAK SEHAT": 0.0,
+    "TIDAK DAPAT DIKLASIFIKASI": 0.42796005706134094
+   }
+  },
+  {
+   "stasiun": "Total",
+   "total": 3501.0,
+   "jumlah": {
+    "BAIK": 425.0,
+    "SEDANG": 2711.0,
+    "TIDAK SEHAT": 343.0,
+    "SANGAT TIDAK SEHAT": 1.0,
+    "TIDAK DAPAT DIKLASIFIKASI": 21.0
+   },
+   "harapan": {
+    "BAIK": 425.0,
+    "SEDANG": 2711.0,
+    "TIDAK SEHAT": 343.0,
+    "SANGAT TIDAK SEHAT": 1.0,
+    "TIDAK DAPAT DIKLASIFIKASI": 21.0
+   },
+   "persen_baris": {
+    "BAIK": 12.13938874607255,
+    "SEDANG": 77.43501856612397,
+    "TIDAK SEHAT": 9.797200799771494,
+    "SANGAT TIDAK SEHAT": 0.028563267637817767,
+    "TIDAK DAPAT DIKLASIFIKASI": 0.5998286203941731
+   }
+  }
+ ],
+ "chi2": {
+  "nilai": 146.9097585165122,
+  "df": 16,
+  "p": 3.1731671481193067e-23,
+  "N": 3501
+ },
+ "cramers_v": 0.10242341957670516
+}
