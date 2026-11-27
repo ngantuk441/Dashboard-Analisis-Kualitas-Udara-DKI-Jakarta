@@ -13,6 +13,7 @@ import kesimpulan
 import klasifikasi
 import korelasi
 import regresi
+import ui
 
 st.set_page_config(page_title="Dashboard Analisis Kualitas Udara DKI Jakarta", page_icon="🌫️", layout="wide")
 ui.pasang_tema()
