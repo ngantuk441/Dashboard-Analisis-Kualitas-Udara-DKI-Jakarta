@@ -7,8 +7,12 @@ from types import SimpleNamespace
 import streamlit as st
 
 import analisis as A
-import ui
-from halaman import beranda, clustering, kesimpulan, klasifikasi, korelasi, regresi
+import beranda
+import clustering
+import kesimpulan
+import klasifikasi
+import korelasi
+import regresi
 
 st.set_page_config(page_title="Dashboard Analisis Kualitas Udara DKI Jakarta", page_icon="🌫️", layout="wide")
 ui.pasang_tema()
